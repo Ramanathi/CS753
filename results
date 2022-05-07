@@ -1,0 +1,35 @@
+Max - pooling
+Audio Event Detection Segment-level F1: 13.1
+Visual Event Detection Segment-level F1: 18.9
+Audio-Visual Event Detection Segment-level F1: 20.2
+Segment-levelType@Avg. F1: 17.4
+Segment-level Event@Avg. F1: 11.7
+Audio Event Detection Event-level F1: 9.9
+Visual Event Detection Event-level F1: 17.2
+Audio-Visual Event Detection Event-level F1: 18.2
+Event-level Type@Avg. F1: 15.1
+Event-level Event@Avg. F1: 9.0
+
+Attentive pooling
+Audio Event Detection Segment-level F1: 60.1
+Visual Event Detection Segment-level F1: 52.9
+Audio-Visual Event Detection Segment-level F1: 48.9
+Segment-levelType@Avg. F1: 54.0
+Segment-level Event@Avg. F1: 55.4
+Audio Event Detection Event-level F1: 51.3
+Visual Event Detection Event-level F1: 48.9
+Audio-Visual Event Detection Event-level F1: 43.0
+Event-level Type@Avg. F1: 47.7
+Event-level Event@Avg. F1: 48.0
+
+mean - pooling
+Audio Event Detection Segment-level F1: 55.5
+Visual Event Detection Segment-level F1: 54.0
+Audio-Visual Event Detection Segment-level F1: 48.8
+Segment-levelType@Avg. F1: 52.8
+Segment-level Event@Avg. F1: 52.0
+Audio Event Detection Event-level F1: 48.1
+Visual Event Detection Event-level F1: 49.4
+Audio-Visual Event Detection Event-level F1: 42.2
+Event-level Type@Avg. F1: 46.6
+Event-level Event@Avg. F1: 45.3
